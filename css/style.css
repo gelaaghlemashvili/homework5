@@ -4,7 +4,7 @@ header {
     padding: 38px 130px;
 }
 
-nav {
+.nav1 {
     display: inline-block;
     vertical-align: middle;
     margin-left: 280px;
@@ -127,4 +127,46 @@ h3 {
 }
 .textsection2{
     margin-top: 15px;
+}
+footer {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 80px 130px;
+}
+.nav2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 417px;
+
+}
+.footerimage {
+    vertical-align: top;
+    
+}
+
+.ul1 {
+display: inline-block;
+
+}
+.ul2 {
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.ul3 {
+    display: inline-block;
+    width: 250px;
+}
+.ul {
+    vertical-align: top;
+    color: white;
+    font-size: 20px;
+}
+.li1 {
+    margin-bottom: 20px;
+}
+.li2 {
+    margin-bottom: 8px;
+    font-size: 18px;
 }
