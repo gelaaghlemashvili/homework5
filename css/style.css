@@ -1,0 +1,29 @@
+header {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 280px;
+    color: #6D6D6D;
+    font-size: 20px;
+}
+.logo {
+    vertical-align: middle;
+}
+.active {
+    margin-left: 47px;
+    margin-right: 47px;
+}
+
+    
+
+.button {
+    background-color: #2A9D8F;
+    margin-left: 253px;
+    padding: 8px 19px;
+    color: white;
+}
