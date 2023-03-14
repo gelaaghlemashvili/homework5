@@ -27,3 +27,33 @@ nav {
     padding: 8px 19px;
     color: white;
 }
+.section1 {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #C2F3EE;
+    padding: 80px 130px;
+}
+
+.div1 {
+    display: inline-block;
+    width: 480px;
+    height: 560px;
+    vertical-align: top;
+    margin-left: 96px;
+}
+.text {
+    margin-top: 33px;
+    margin-bottom: 81px;
+    font-style: italic;
+}
+h3 {
+    font-size: 32px;
+}
+.button1 {
+    background-color: #2A9D8F;
+        
+        padding: 8px 27px;
+        color: white;
+}
+
+
