@@ -93,3 +93,38 @@ h3 {
     width: 780px;
     height: 170px;
 }
+.button3 {
+    background-color: #2A9D8F;
+        width: 130.47px;
+        height: 32px;
+            color: white;
+            margin-top: 23px;
+}
+.section2 {
+    width: 1440px;
+    margin: o auto;
+    padding: 203px 130px;
+}
+.section2title {
+    margin-left: 490px;
+    font-size: 48px;
+    color: #4D4D4D;
+}
+.div3{
+    display: inline-block;
+    width: 580px;
+        height: 278px;
+        color: #535353;
+        
+}
+.div4 {
+    display: inline-block;
+    width: 580px;
+        height: 278px;
+        margin-top: 57px;
+        margin-left: 10px;
+        color: #535353;
+}
+.textsection2{
+    margin-top: 15px;
+}
